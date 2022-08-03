@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        Curriculo
+    </title>
+</head>
+<body>
+    <ol type="disc">
+        <li type="disc">Folha 15 Quadra 15 Lote 15</li>
+        <li type="disc">Marabá-PA</li>
+        <li type="disc">(94) 98135-4770</li>
+        <li type="disc">james@unifesspa.edu.br</li>
+    </ol>
+
+<h1>James Byron Dean</h1>
+<hr>
+<h2>OBJETIVOS:</h2>
+<p>
+    Contribuir com meu vasto conhecimento adquirido ao longo dos
+    anos através de inúmeros estudos realizados na área de tecnologia
+    e informática.
+</p>
+<hr>
+<h3>HABILIDADES E COMPETÊNCIAS:</h3>
+    <ol>
+        <li>Flexibilidade</li>
+        <li>Capacidade para resolver problema</li>
+        <li>Trabalho em equipe</li>
+        <li>Esforçado</li>
+        <li>Proativo</li>
+        <li>Altamente qualificado</li>
+        <li>Comunicativo</li>
+    </ol>
+   <hr>
+
+   <h3>EXPERIÊNCIAS</h3>
+
+   <ul type="disc">
+    <li>Técnico em Informática
+        <ul>
+            <li>Empresa: Supermercado Colinas</li>
+            <li>Período: Maio de 2018 a Junho de 2019</li>
+        </ul>
+    </li>
+    <li>Analista de Sistemas
+        <ul>
+            <li>Empresa: Fibralink</li>
+            <li>Período: Julho de 2019 a Junho de 2020</li>
+        </ul>
+    </li>
+    <li>Gestor de projetos
+        <ul>
+            <li>Empresa: Governo do Estado do Pará</li>
+            <li>Período: Setembro de 2020 a Dezembro de 2022</li>
+        </ul>
+    </li>
+   </ul>
+   
+   <h3>EDUCAÇÃO</h3>
+   <ul>
+        <li>UNIFESSPA - Marabá-PA - Ensino Superior</li>
+        <li>EEEM Dr. Gaspar Vianna - Marabá-PA - Ensino Médio</li>
+        <li>EMEF José Cursino de Azevedo - Marabá-PA - Ensino Fundamental</li>
+   </ul>
+
+   <h3>COMUNICAÇÃO</h3>
+   <p>
+    Bastante comunicativo, tendo como principal elemento 
+    formativo as habilidades de comunicação interpessoal.
+   </p>
+   <hr>
+   <h3>REFERÊNCIAS</h3>
+   <ol>
+    <li>Marcos Duandys Lorena - Gerente Administrativo - Fibralink - 94 98133545/</li>
+    <li>Silvio Alegrino Agripino - Gerente Comercial - Supermercado Colinas - 94 99485666/</li>
+   </ol>
+</body>
